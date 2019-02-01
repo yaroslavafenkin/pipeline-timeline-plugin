@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>pipeline-timeline</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <properties>
         <jenkins.version>2.7.3</jenkins.version>
@@ -84,8 +84,8 @@
     <scm>
         <connection>scm:git:git://github.com/jenkinsci/jenkins-timeline-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/jenkins-timeline-plugin.git</developerConnection>
-        <url />
-      <tag>pipeline-timeline-1.0.3</tag>
+        <url></url>
+      <tag>pipeline-timeline-1.0.1</tag>
   </scm>
     <developers>
         <developer>
